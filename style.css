@@ -1,0 +1,124 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px solid blue;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fvar1 {
+    display: block;
+    margin: 0 auto;
+    width: 750px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.tvar1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.fvar2 {
+    display: block;
+    margin: 0 auto;
+    width: 750px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.tvar2 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px
+}
+
+.tvar3 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.fvar3 {
+    display: block;
+    margin: 0 auto;
+    width: 750px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.fvar4 {
+    display: block;
+    margin: 0 auto;
+    width: 750px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.tvar4 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.tvar5 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.fvar5 {
+    display: block;
+    margin: 0 auto;
+    width: 750px;
+    height: auto;
+    border-radius: 15px;
+}
+
+.tlvar1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.tlvar2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.tlvar3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.tlvar4 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.tlvar5 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
